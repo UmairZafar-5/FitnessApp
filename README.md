@@ -2,7 +2,7 @@
 Android fitness app project using java.
 
 # Features:
-- You can do 2 different type of exercises for 30 days to make you fit.
+- You can do 2 different types of exercises for 30 days to make you fit.
 - You can Rate app whick will be show in toast.
 - Webview
 
