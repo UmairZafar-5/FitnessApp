@@ -18,5 +18,6 @@ Android fitness app project using java.
 - Type Super AMOLED
 
 # Technology
- Android studio 3.6.3
- 
+- Android studio 3.6.3
+- Backend java
+- frontend xml
